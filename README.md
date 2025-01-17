@@ -33,6 +33,7 @@ Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+https://caixa-my.sharepoint.com/:b:/r/personal/c067366_corp_caixa_gov_br/Documents/GITHUB%20DIO/Educa%C3%A7%C3%A3o%20Fundamental%20e%20a%20Intelig%C3%AAncia%20Artificial%20-%20E-book%20-%20GITHUB.docx.pdf?csf=1&web=1&e=Ffn16t
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
