@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Educação Fundamental e a Inteligência Artificial 
 
 ## 🚀 Introdução
 
